@@ -1,0 +1,78 @@
+body{
+	font-family: 'Montserrat', sans-serif;
+	max-width: 1400px;
+}
+
+nav {
+	background: #2A3E50;
+	height: 110px;
+}
+
+header nav ul {
+	display: inline-block;
+	float: right;
+	font-size: 15px;
+	margin: 45px 130px 40px 0;
+
+}
+
+header nav h3 {
+	color: white;
+	display: inline;
+	float: left;
+	font-size: 25px;
+	margin: 40px 0px 40px 130px;
+}
+
+header nav ul li{
+	color: white;
+	display: inline;
+}
+
+a {
+	color: white;
+	padding: 20px;
+	text-decoration: none;
+}
+
+header section {
+	background: #1EB89A;
+	height: 720px;
+	text-align: center;
+	color: white;
+	padding: 140px;
+}
+
+h1 {
+	font-size: 70px;
+}
+
+#portfolio {
+	background: white;
+	height: 880px;
+}
+
+#portfolio h3 {
+	font-size: 50px;
+	text-align: center;
+}
+#about {
+	background: #1EB89A;
+	height: 720px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,26 @@
+.letra {
+	letter-spacing: 15px;
+}
+
+.palabra {
+	word-spacing: 15px;
+	font-size: 12px;
+	line-height: 18px;
+}
+
+.contenedor-boton {
+	height: 40px;
+	width: 70px;
+	margin: 10px;
+	border: solid black 1px;
+	text-align: center;
+	box-shadow: 3px 5px 4px blue;
+	box-sizing: border-box;
+}
+
+.boton {
+	margin: 0;
+	font-size: 15px;
+	line-height: 40px;
+
+}
