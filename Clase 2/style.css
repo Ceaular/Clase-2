@@ -24,3 +24,40 @@
 	line-height: 40px;
 
 }
+
+.principal {
+	height: 400px;
+	background: blue;
+	background-image: url(image.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+
+}
+
+h1 {
+	line-height: 400px;
+	margin: 0;
+	color: white;
+	font-size: 50px;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
